@@ -10,6 +10,7 @@ Changelog for Management API, new PRs should update the `main / unreleased` sect
 ```
 
 ## unreleased
+* [ENHANCEMENT] [#441](https://github.com/k8ssandra/management-api-for-apache-cassandra/issues/441) Replace ShellUtils arbitrary command execution
 
 ## v0.1.72 (2023-12-19)
 
